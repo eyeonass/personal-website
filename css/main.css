@@ -1,0 +1,129 @@
+/******************tag silaktert**************/
+body{
+  background: #d1d8e6;
+   margin: 0px;
+   text-align: center;
+   font-family: 'Righteous', cursive;
+}
+hr{
+  color: #66bfba;
+  border-block-end: dotted;
+  border-top-width: 0px;
+  width: 4%;
+  margin: 100px auto;
+
+}
+a{
+  margin: 20px;
+  font-family:serif;
+  text-decoration: none;
+  font-size:
+}
+div{
+display: block;
+  margin: 0px;
+}
+h1{
+  color: #66b;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 0px;
+}
+h2,h3{
+  font-family: 'Francois One', sans-serif;
+  color: #66b;
+}
+p{
+  line-height: 2;
+}
+.sunny{
+  width: 6%;
+  position: relative;
+  left: 540px;
+  top: 60px;
+}
+.info-title{
+  background: #d6d4de;
+font-family: 'Audiowide', cursive;
+color: #66b;
+font-size: 30px;
+}
+.title-p{
+  margin-top: 0px;
+}
+.clouds-bottom{
+  width: 10%;
+  position: relative;
+  bottom: 300px;
+  right:150px;
+}
+.clouds-top{
+  width: 10%;
+  position: relative;
+  left:400px;
+  top: 100px;
+}
+.land-img{
+  position: relative;
+  bottom: 100px;
+  right: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+.my-img{
+  float: inherit;
+  width: 25%;
+
+}
+.skill-img-01{
+  float:left;
+  width: 25%;
+  margin-top: 15px;
+  padding: 20px;
+}
+.skill-img-02{
+  float:right;
+  width: 25%;
+  margin-top: 15px;
+  padding: 20px;
+}
+.profile{
+  background: #d6d2e6;
+  margin: 50px;
+}
+
+.contact-me{
+  margin: 0px auto 100px;
+}
+.contact-me-p{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn{
+  text-decoration: none;
+  color: #d1d8e6;
+  background: #472c9b;
+  padding: 8px 16px;
+  border-radius: 6px;
+}
+.btn:hover{
+  text-decoration: none;
+  color: white;
+  background:#6340cf;
+  padding: 8px 16px;
+  border-radius: 6px;
+}
+.logo-button{
+  width: 5%;
+}
+.bottom-container{
+  background: #1b6188;
+  padding-top: 20px;
+}
+.copyright{
+  font-family: sans-serif;
+margin: 20px auto 0px;
+}
